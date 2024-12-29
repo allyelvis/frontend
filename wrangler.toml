@@ -1,0 +1,7 @@
+name = "aenzbi-suite"
+type = "javascript"
+account_id = "6d414d8d9ce1192bfa6fcaafdeac7c7f"
+workers_dev = true
+
+[env.production]
+routes = ["https://aenzbi-worker.allyelvis6569.workers.dev/*"]
